@@ -1,0 +1,21 @@
+.
+├── app
+│   ├── data
+│   │   ├── films.json
+│   │   ├── handler.py
+│   │   └── __init__.py
+│   ├── fsm
+│   │   ├── film.py
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── keyboards
+│   │   ├── film.py
+│   │   └── __init__.py
+│   └── routers
+│       ├── film.py
+│       └── __init__.py
+├── main.py
+├── requirements.txt
+└── tree.txt
+
+5 directories, 13 files
