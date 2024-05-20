@@ -1,1 +1,0 @@
-from . film import FilmCreateForm
